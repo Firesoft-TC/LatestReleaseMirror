@@ -200,6 +200,21 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="unboundtechco--defyxvpn"></div>
+
+### UnboundTechCo--defyxVPN
+
+🔗 [source](https://github.com/UnboundTechCo/defyxVPN) – [<code><small>v5.2.8</small></code>](https://github.com/UnboundTechCo/defyxVPN/releases/tag/v5.2.8)
+
+| File | Size | Download |
+|------|------|----------|
+| `app-arm64-v8a-release.apk` | 79.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/app-arm64-v8a-release.apk) |
+| `app-armeabi-v7a-release.apk` | 73.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/app-armeabi-v7a-release.apk) |
+| `app-x86_64-release.apk` | 83.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/app-x86_64-release.apk) |
+| `windows-release.zip` | 31.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/UnboundTechCo/defyxVPN/windows-release.zip) |
+
+---
+
 <div id="anonvector--slipnet"></div>
 
 ### anonvector--SlipNet
