@@ -157,32 +157,6 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="karingx--karing"></div>
-
-### KaringX--karing
-
-🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.18.2102</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.18.2102)
-
-| File | Size | Download |
-|------|------|----------|
-| `karing_1.2.18.2102_macos_universal.dmg` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_macos_universal.dmg) |
-| `karing_1.2.18.2102_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.exe) |
-
----
-
-<div id="nulllatency--flowdriver"></div>
-
-### NullLatency--FlowDriver
-
-🔗 [source](https://github.com/NullLatency/FlowDriver) – [<code><small>v0.0.4</small></code>](https://github.com/NullLatency/FlowDriver/releases/tag/v0.0.4)
-
-| File | Size | Download |
-|------|------|----------|
-| `flow-driver-v0.0.4-darwin-amd64.zip` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-darwin-amd64.zip) |
-| `flow-driver-v0.0.4-linux-amd64.zip` | 9.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-linux-amd64.zip) |
-
----
-
 <div id="sagernet--sing-box"></div>
 
 ### SagerNet--sing-box
@@ -237,6 +211,21 @@ sha256sum FILE_NAME
 | `slipnet-linux-arm64` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-linux-arm64) |
 | `slipnet-linux-armv7` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-linux-armv7) |
 | `slipnet-windows-amd64.exe` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-windows-amd64.exe) |
+
+---
+
+<div id="code3-dev--proxycloud"></div>
+
+### code3-dev--ProxyCloud
+
+🔗 [source](https://github.com/code3-dev/ProxyCloud) – [<code><small>v3.9.0</small></code>](https://github.com/code3-dev/ProxyCloud/releases/tag/v3.9.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `proxycloud-arm64-v8a.apk` | 29.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/code3-dev/ProxyCloud/proxycloud-arm64-v8a.apk) |
+| `proxycloud-armeabi-v7a.apk` | 29.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/code3-dev/ProxyCloud/proxycloud-armeabi-v7a.apk) |
+| `proxycloud-universal.apk` | 65.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/code3-dev/ProxyCloud/proxycloud-universal.apk) |
+| `proxycloud-x86_64.apk` | 30.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/code3-dev/ProxyCloud/proxycloud-x86_64.apk) |
 
 ---
 
