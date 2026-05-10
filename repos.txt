@@ -8,7 +8,7 @@ therealaleph/MasterHttpRelayVPN-RUST
 anonvector/SlipNet
 UnboundTechCo/defyxVPN
 code3-dev/ProxyCloud
-https://github.com/iampedii/WhiteDNS
+iampedii/WhiteDNS
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
 
 # 3. Mix of keywords and file extensions (note escaping of dots)
