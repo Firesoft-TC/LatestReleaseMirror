@@ -252,6 +252,22 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="termux--termux-app"></div>
+
+### termux--termux-app
+
+🔗 [source](https://github.com/termux/termux-app) – [<code><small>v0.118.3</small></code>](https://github.com/termux/termux-app/releases/tag/v0.118.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `termux-app_v0.118.3+github-debug_arm64-v8a.apk` | 33.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/termux/termux-app/termux-app_v0.118.3+github-debug_arm64-v8a.apk) |
+| `termux-app_v0.118.3+github-debug_armeabi-v7a.apk` | 30.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/termux/termux-app/termux-app_v0.118.3+github-debug_armeabi-v7a.apk) |
+| `termux-app_v0.118.3+github-debug_sha256sums` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/termux/termux-app/termux-app_v0.118.3+github-debug_sha256sums) |
+| `termux-app_v0.118.3+github-debug_x86.apk` | 32.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/termux/termux-app/termux-app_v0.118.3+github-debug_x86.apk) |
+| `termux-app_v0.118.3+github-debug_x86_64.apk` | 33.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/termux/termux-app/termux-app_v0.118.3+github-debug_x86_64.apk) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
