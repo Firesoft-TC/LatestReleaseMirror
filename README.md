@@ -252,6 +252,28 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="iampedii--range-scout"></div>
+
+### iampedii--range-scout
+
+🔗 [source](https://github.com/iampedii/range-scout) – [<code><small>v0.7.0</small></code>](https://github.com/iampedii/range-scout/releases/tag/v0.7.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `checksums.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/iampedii/range-scout/checksums.txt) |
+| `range-scout_darwin_amd64` | 10.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/iampedii/range-scout/range-scout_darwin_amd64) |
+| `range-scout_darwin_amd64.tar.gz` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/iampedii/range-scout/range-scout_darwin_amd64.tar.gz) |
+| `range-scout_darwin_arm64` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/iampedii/range-scout/range-scout_darwin_arm64) |
+| `range-scout_darwin_arm64.tar.gz` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/iampedii/range-scout/range-scout_darwin_arm64.tar.gz) |
+| `range-scout_linux_amd64` | 10.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/iampedii/range-scout/range-scout_linux_amd64) |
+| `range-scout_linux_amd64.tar.gz` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/iampedii/range-scout/range-scout_linux_amd64.tar.gz) |
+| `range-scout_linux_arm64` | 8.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/iampedii/range-scout/range-scout_linux_arm64) |
+| `range-scout_linux_arm64.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/iampedii/range-scout/range-scout_linux_arm64.tar.gz) |
+| `range-scout_windows_amd64.exe` | 10.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/iampedii/range-scout/range-scout_windows_amd64.exe) |
+| `range-scout_windows_amd64.zip` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Firesoft-TC/LatestReleaseMirror/main/releases/iampedii/range-scout/range-scout_windows_amd64.zip) |
+
+---
+
 <div id="termux--termux-app"></div>
 
 ### termux--termux-app
