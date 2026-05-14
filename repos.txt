@@ -12,6 +12,7 @@ iampedii/WhiteDNS
 termux/termux-app
 iampedii/range-scout
 2dust/v2rayNG
+shirokhorshid/shirokhorshid-android
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
 
 # 3. Mix of keywords and file extensions (note escaping of dots)
